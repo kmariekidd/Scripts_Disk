@@ -6,7 +6,7 @@
     # The Sourcery token for logging in.
 The Sourcery token can be retrieved from  [your dashboard](https://sourcery.ai/dashboard/profile) and uploaded to your GitHub repository as a  [GitHub secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets).
 
-    token: 
+    token: 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
     # File(s) or directory(ies) to review.
     target: # optional, default is .
     # Sourcery CLI version, e.g. '0.12.12'. If empty, default to the latest version  available.
